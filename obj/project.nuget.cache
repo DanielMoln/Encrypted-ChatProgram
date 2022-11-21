@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQ7PvYW21oYOyHfpuTWxWpslA58rOC5OrmlSXYJgS2ynBNoxIK41ky5/W8/MSKj5Kny4zT6BG9nEx8afnXWGKg==",
+  "success": true,
+  "projectFilePath": "D:\\Iskola\\VargaGábor\\ChatProgramEncrypted\\ChatProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielMolnar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
